@@ -1,0 +1,3 @@
+/Users/allannguginganga./CLionProjects/learningprocess2/cmake-build-debug/CMakeFiles/learningprocess2.dir
+/Users/allannguginganga./CLionProjects/learningprocess2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allannguginganga./CLionProjects/learningprocess2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
